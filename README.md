@@ -17,7 +17,7 @@
 
 <div align="center">
 <div style="display: inline_block"><br>
-Aprimorando skills em"
+Aprimorando skills em:
 <br><br>
 • <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 • <img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
